@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>WKBackgroundModes</key><array><string>alarm</string></array>
+<key>NSMotionUsageDescription</key><string>Record wrist movement during a user-started trial to evaluate an experimental drowsiness estimate.</string>
+<key>NSHealthShareUsageDescription</key><string>Read heart-rate samples during a trial to evaluate heart-rate changes alongside wrist movement. Trial records stay on your devices unless you choose to export them.</string>
+</dict></plist>

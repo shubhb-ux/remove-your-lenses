@@ -1,0 +1,21 @@
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+.DS_Store
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.swiftpm/
+
+# Local recordings, credentials and research exports
+DriftTrials/
+TrialOutbox/
+research-data/
+trial-exports/
+.env
+.env.*
+*.p12
+*.mobileprovision
